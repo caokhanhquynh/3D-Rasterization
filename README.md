@@ -2,8 +2,8 @@
 
 # Getting started
 To run and develop this assignment you must start a local HTTP server in the directory containing `rasterization.html`.
-``` 
-    `python3 -m http.server` 
+``` bash
+    python3 -m http.server 
 ```
 Once the HTTP server is up, navigate your browser to [http://localhost:8000/rasterization.html](http://localhost:8000/rasterization.html).
 
