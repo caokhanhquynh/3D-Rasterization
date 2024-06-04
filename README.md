@@ -2,6 +2,11 @@
 
 # Getting started
 To run and develop this assignment you must start a local HTTP server in the directory containing `rasterization.html`.
+
+Navigate to https://caokhanhquynh.github.io/Rasterization/index.html.
+
+or 
+
 ``` bash
     python3 -m http.server 
 ```
