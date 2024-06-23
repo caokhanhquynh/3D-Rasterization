@@ -2,7 +2,7 @@
 
 # Getting started
 
-Navigate to https://caokhanhquynh.github.io/Rasterization/index.html
+Navigate to https://caokhanhquynh.github.io/3D-Rasterization/
 
 or
 
